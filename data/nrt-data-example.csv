@@ -1,0 +1,9 @@
+timestamp;pc-id;engine;object;spf;cpu
+1615121436;jorden;directx;cube;24;15
+1615121446;jorden;directx;cube;2;10
+1615121454;jorden;vulkan;cube;40;27
+1615121460;jorden;vulkan;cube;50;44
+1615121465;jorden;directx;suzanne;25;31
+1615121470;jorden;directx;suzanne;15;14
+1615121477;jorden;vulkan;suzanne;1;49
+1615121484;jorden;vulkan;suzanne;5;44

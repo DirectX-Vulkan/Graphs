@@ -1,0 +1,10 @@
+timestamp;pc-id;engine;object;fps;cpu
+30905319;Computer-name;directx;viking_room;8000;0
+30906319;Computer-name;directx;viking_room;7866;14
+30907319;Computer-name;directx;viking_room;8072;15
+30908319;Computer-name;directx;viking_room;7482;13
+30909319;Computer-name;directx;viking_room;6688;17
+30910319;Computer-name;directx11;viking_room;7829;18
+30911319;Computer-name;directx11;viking_room;7812;16
+30912320;Computer-name;directx11;viking_room;7903;16
+30913319;Computer-name;directx11;viking_room;8067;16

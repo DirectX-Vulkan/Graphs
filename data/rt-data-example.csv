@@ -1,0 +1,7 @@
+timestamp;pc-id;engine;object;fps;cpu
+1615121454;jorden;vulkan;cube;1507;9
+1615121460;jorden;vulkan;cube;2412;26
+1615121465;jorden;directx;suzanne;2181;24
+1615121470;jorden;directx;suzanne;2393;49
+1615121477;jorden;vulkan;suzanne;2195;23
+1615121484;jorden;vulkan;suzanne;2370;5
